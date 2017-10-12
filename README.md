@@ -1,5 +1,5 @@
 # Boston Housing
-For this assignment, I will be using the Boston Housing Prices Data Set.
+For this analysis, I will be using the Boston Housing Prices Data Set.
 
 I performed some basic descriptive statistics to get a sense of data following by using tools such as Nearest neighbour , cross validation and forward selection to select the features that best predict the housing prices.
 
